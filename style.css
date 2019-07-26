@@ -1,0 +1,13 @@
+.box {
+    border: solid;
+    border-color: black;
+    border-width: 0.15em;
+    height: 5em;
+    width: 5em;
+    margin: 1em;
+}
+
+#container {
+    display: flex;
+    flex-wrap: wrap;
+}
